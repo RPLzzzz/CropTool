@@ -21,8 +21,8 @@ python Crop.py -h
 
 ## Other infomation ?
 + Created on 07/03/2020
-+ Build with python 3.7
-+ Tested on Windows 10
++ Build with python 3.7 on Windows 10
++ Tested png & jpg file
 
 ## Authors
 
