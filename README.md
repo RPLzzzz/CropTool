@@ -1,7 +1,7 @@
 # CropTool
 Python script to minimize blank in a matlab or python plot.
 
-![CropTool](https://i.imgur.com/OgiaoHb.png)
+![CropTool](https://i.imgur.com/cmiv1LN.png)
 
 ## How to use ?
 + Download the script (Crop.py)
@@ -16,6 +16,9 @@ cd username/mypath/...
 ```
 python Crop.py -h
 ```
+
+![output](https://i.imgur.com/ZOSBcxM.png)
+
 ## Other infomation ?
 + Created on 07/03/2020
 + Build with python 3.7
