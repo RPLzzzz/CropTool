@@ -27,3 +27,7 @@ python Crop.py -h
 ## Authors
 
 * **Loïc ARGENTIER** - *Initial work* - [argent-lo](https://github.com/argent-lo)
+
+## Test
+add Super resolution from /idealo/image-super-resolution
+need pip install ISR
